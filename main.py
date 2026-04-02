@@ -31,15 +31,15 @@ USERNAME = "shagunkumar060q@gmail.com"
 PASSWORD = "Sh@gun1234567890"
 
 # Polling interval in seconds
-POLLING_INTERVAL_SECONDS = 30 
+POLLING_INTERVAL_SECONDS = 2
 STATE_FILE = "processed_sms_ids.json" 
 CHAT_IDS_FILE = "chat_ids.json"
 
 INLINE_BUTTONS = [
-    InlineKeyboardButton("📱 NUMBER CHANNEL", url="https://t.me/mrafrixtech"),
-    InlineKeyboardButton("BACKUP CHANNEL", url="https://t.me/auroratechinc"),
-    InlineKeyboardButton("OTP GROUP", url="https://t.me/afrixotpgc"),
-    InlineKeyboardButton("CONTACT DEV", url="https://t.me/jaden_afrix"),
+    InlineKeyboardButton("📱 NUMBER CHANNEL", url="https://t.me/kitenumber"),
+    InlineKeyboardButton("BACKUP CHANNEL", url="https://t.me/kite_in_skyy"),
+    InlineKeyboardButton("OTP GROUP", url="https://t.me/freekiteotp"),
+    InlineKeyboardButton("CONTACT DEV", url="https://t.me/kite_owner"),
 ]
 
 # List of countries
