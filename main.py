@@ -27,8 +27,8 @@ LOGIN_URL = "https://www.ivasms.com/login"
 BASE_URL = "https://www.ivasms.com/"
 SMS_API_ENDPOINT = "https://www.ivasms.com/portal/sms/received/getsms"
 
-USERNAME = "shagun1xx@gmail.com"
-PASSWORD = "Sh@gun12345"
+USERNAME = "shagunkumar060q@gmail.com"
+PASSWORD = "Sh@gun1234567890"
 
 # Polling interval in seconds
 POLLING_INTERVAL_SECONDS = 2 
