@@ -31,7 +31,7 @@ USERNAME = "shagunkumar060q@gmail.com"
 PASSWORD = "Sh@gun1234567890"
 
 # Polling interval in seconds
-POLLING_INTERVAL_SECONDS = 2
+POLLING_INTERVAL_SECONDS = 30
 STATE_FILE = "processed_sms_ids.json" 
 CHAT_IDS_FILE = "chat_ids.json"
 
